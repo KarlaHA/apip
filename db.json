@@ -1,0 +1,11 @@
+{
+    "user":[
+        {"id": 1,
+      "nombre": "Karla",
+      "apellido": "Haas",
+      "telefono": "9811088367",
+      "categoria": "Trabajo",
+      "fecha": "29/06/2021",
+      "hora": "12:10"}
+         ]
+}
