@@ -6,6 +6,30 @@
       "telefono": "9811088367",
       "categoria": "Trabajo",
       "fecha": "29/06/2021",
-      "hora": "12:10"}
-         ]
+      "hora": "12:10"},
+
+        {"id": 2, 
+            "nombre":"Luis", 
+            "apellido":"Haas", 
+            "telefono":"9969634562", 
+            "categoria":"Actividad Física",
+            "fecha": "12/08/2023", 
+            "hora": "5:10"},
+
+            {"id": 3, 
+                "nombre":"Olga", 
+                "apellido":"Aguayo", 
+                "telefono":"9812345678",
+                "categoria":"Trabajo", 
+                "fecha": "22/10/2022", 
+                "hora": "8:00"},
+
+                {"id": 4, 
+                    "nombre":"Agustín", 
+                    "apellido":"paz", 
+                    "telefono":"9819807667",
+                    "categoria":"Recreativo", 
+                    "fecha": "10/10/2021", 
+                    "hora": "8:50"}
+    ]
 }
